@@ -1,0 +1,5 @@
+{
+  "name": "PINN STUDIO VEO 3 JSON",
+  "description": "A powerful tool to generate videos from structured JSON prompts, enabling scene-by-scene creation with consistent characters using the VEO video generation model.",
+  "requestFramePermissions": []
+}
