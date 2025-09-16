@@ -51,7 +51,7 @@ const Setup: React.FC<SetupProps> = ({ geminiApiKey, veoApiKey, onSave }) => {
     <div className="max-w-4xl mx-auto space-y-8">
       <div className="flex items-center">
         <SettingsIcon className="w-8 h-8 mr-4 text-[#4fd1c5]" />
-        <h2 className="text-3xl font-bold text-white">API Key Setup</h2>
+        <h2 className="text-3xl font-bold text-white">API Key Setup VEO 3 FAST</h2>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
